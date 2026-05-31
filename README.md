@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Arpit Shukla 👋
 
-<!--
-**arpitshukla82/arpitshukla82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* Python
+* SQL
+* AWS
+* Web Development
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* SQL
+* AWS
+
+## 🏆 Achievements
+
+* Smart India Hackathon Idea Selected
+* Project Expo Winner (Home Automation System)
+* Bihar State Rank 2 in Cultural Performance
+
+## 🚀 Interests
+
+* Software Development
+* Data Science
+* Problem Solving
+* Open Source
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/arpit-shukla-9865f
+
+
+* LeetCode: https://leetcode.com/u/Arpitshukla12/
+
+* Codecheff: https://www.codechef.com/users/arpitshukla82
